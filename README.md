@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2002Himanshu
+- 👋 Hi, I’m @Himanshu
 - 👀 I’m interested in ...frontend developer
 - 🌱 I’m currently learning ...Reactjs
 - 💞️ I’m looking to collaborate on ...
